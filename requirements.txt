@@ -1,0 +1,7 @@
+streamlit==1.66.1
+pandas==3.1.0
+plotly==7.1.0
+astronomy-engine==2.1.19
+openpyxl==3.1.5
+supabase==2.33.0
+tzdata==2026.6
